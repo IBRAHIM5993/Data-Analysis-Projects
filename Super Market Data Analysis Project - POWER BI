@@ -1,0 +1,45 @@
+Retail Insights Dashboard: Analyzing Supermarket Sales Trends with Power BI
+
+Supermarket Sales Analysis Dashboard – Power BI Project
+Overview
+This project presents a comprehensive analysis of supermarket sales data using Power BI. The goal was to transform raw transactional data into actionable insights through data cleaning, transformation, and interactive dashboard design. The final dashboard fulfills key performance indicators (KPIs) defined by stakeholders and supports data-driven decision-making in retail operations.
+
+Data Source
+Raw data was provided in multiple Excel files containing sales, product informations.
+Files were merged into a single consolidated dataset for analysis.
+
+Data Preparation Workflow
+Data Loading Imported the merged Excel file into Power BI.
+Data Validation & Cleaning
+Verified data types and schema consistency
+Removed duplicate records
+Rectified erroneous entries
+Replaced null values based on stakeholder requirements
+
+Data Transformation
+Applied filters and calculated columns
+Performed data manipulation using Power Query
+Created relationships between tables for accurate modeling
+
+KPI Fulfillment
+Defined and calculated KPIs such as Total Sales, Profit Margin, Customer Count, and Product Performance
+Used DAX expressions to derive meaningful metrics
+
+Dashboard Features
+Interactive visuals for:
+Sales trends over time
+Top-performing products and categories
+Regional performance comparison
+Slicer-based filtering for dynamic exploration
+Clean, intuitive layout optimized for stakeholder review
+
+Business Impact
+Enables supermarket managers to monitor performance of products
+Supports inventory planning and promotional strategies
+Improves understanding of customer preferences and regional demand
+
+Tools & Technologies
+Power BI
+Excel
+DAX (Data Analysis Expressions)
+Power Query
